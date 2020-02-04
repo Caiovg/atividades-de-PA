@@ -1,0 +1,23 @@
+F:\Projeto final P.A\Projeto final P.A\Projeto final P.A\bin\Debug\Projeto final P.A.exe.config
+F:\Projeto final P.A\Projeto final P.A\Projeto final P.A\bin\Debug\Projeto final P.A.exe
+F:\Projeto final P.A\Projeto final P.A\Projeto final P.A\bin\Debug\Projeto final P.A.pdb
+F:\Projeto final P.A\Projeto final P.A\Projeto final P.A\obj\Debug\Projeto final P.A.csprojResolveAssemblyReference.cache
+F:\Projeto final P.A\Projeto final P.A\Projeto final P.A\obj\Debug\Projeto_final_P.A.Form1.resources
+F:\Projeto final P.A\Projeto final P.A\Projeto final P.A\obj\Debug\Projeto_final_P.A.Form2.resources
+F:\Projeto final P.A\Projeto final P.A\Projeto final P.A\obj\Debug\Projeto_final_P.A.Properties.Resources.resources
+F:\Projeto final P.A\Projeto final P.A\Projeto final P.A\obj\Debug\Projeto final P.A.csproj.GenerateResource.Cache
+F:\Projeto final P.A\Projeto final P.A\Projeto final P.A\obj\Debug\Projeto final P.A.exe
+F:\Projeto final P.A\Projeto final P.A\Projeto final P.A\obj\Debug\Projeto final P.A.pdb
+F:\Projeto final P.A\Projeto final P.A\Projeto final P.A\obj\Debug\Projeto_final_P.A.Form3.resources
+D:\Projeto final P.A\Projeto final P.A\Projeto final P.A\obj\Debug\Projeto final P.A.csprojAssemblyReference.cache
+D:\Projeto final P.A\Projeto final P.A\Projeto final P.A\obj\Debug\Projeto_final_P.A.Form1.resources
+D:\Projeto final P.A\Projeto final P.A\Projeto final P.A\obj\Debug\Projeto_final_P.A.Form2.resources
+D:\Projeto final P.A\Projeto final P.A\Projeto final P.A\obj\Debug\Projeto_final_P.A.Form3.resources
+D:\Projeto final P.A\Projeto final P.A\Projeto final P.A\obj\Debug\Projeto_final_P.A.Properties.Resources.resources
+D:\Projeto final P.A\Projeto final P.A\Projeto final P.A\obj\Debug\Projeto final P.A.csproj.GenerateResource.cache
+D:\Projeto final P.A\Projeto final P.A\Projeto final P.A\obj\Debug\Projeto final P.A.csproj.CoreCompileInputs.cache
+D:\Projeto final P.A\Projeto final P.A\Projeto final P.A\obj\Debug\Projeto final P.A.exe
+D:\Projeto final P.A\Projeto final P.A\Projeto final P.A\obj\Debug\Projeto final P.A.pdb
+D:\Projeto final P.A\Projeto final P.A\Projeto final P.A\bin\Debug\Projeto final P.A.exe.config
+D:\Projeto final P.A\Projeto final P.A\Projeto final P.A\bin\Debug\Projeto final P.A.exe
+D:\Projeto final P.A\Projeto final P.A\Projeto final P.A\bin\Debug\Projeto final P.A.pdb
